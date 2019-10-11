@@ -1,0 +1,21 @@
+# [Tech]
+127.0.0.1 news.ycombinator.com
+127.0.0.1 lobste.rs
+
+# [News]
+127.0.0.1 npr.org
+127.0.0.1 text.npr.org
+127.0.0.1 cnn.com
+127.0.0.1 msnbc.com
+127.0.0.1 foxnews.com
+
+# [Reddit]
+127.0.0.1 reddit.com
+127.0.0.1 old.reddit.com
+
+# [Gaming]
+127.0.0.1 teamliquid.net
+
+# [LEGO]
+127.0.0.1 brickset.com
+127.0.0.1 bricks.stackexchange.com

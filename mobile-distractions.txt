@@ -13,7 +13,7 @@
 127.0.0.1 news.google.com
 127.0.0.1 marketwatch.com
 127.0.0.1 realclearpolitics.com
-127.0.0.1 fovethrirtyeight.com
+127.0.0.1 fivethrirtyeight.com
 
 # [Reddit]
 127.0.0.1 reddit.com

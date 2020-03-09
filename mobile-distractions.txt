@@ -8,6 +8,12 @@
 127.0.0.1 cnn.com
 127.0.0.1 msnbc.com
 127.0.0.1 foxnews.com
+127.0.0.1 news.bbc.co.UK
+127.0.0.1 reuters.com
+127.0.0.1 news.google.com
+127.0.0.1 marketwatch.com
+127.0.0.1 realclearpolitics.com
+127.0.0.1 fovethrirtyeight.com
 
 # [Reddit]
 127.0.0.1 reddit.com
